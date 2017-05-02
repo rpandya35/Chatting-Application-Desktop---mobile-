@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PC Chat", "PC Chat\", "{FD65F685-25B9-42DF-A921-BB18707A891D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/PC Chat"
+		Debug.AspNetCompiler.PhysicalPath = "D:\amish\Projects\Android\PC Chat\PC Chat\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PC Chat\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PC Chat"
+		Release.AspNetCompiler.PhysicalPath = "D:\amish\Projects\Android\PC Chat\PC Chat\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PC Chat\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "7710"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD65F685-25B9-42DF-A921-BB18707A891D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD65F685-25B9-42DF-A921-BB18707A891D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
